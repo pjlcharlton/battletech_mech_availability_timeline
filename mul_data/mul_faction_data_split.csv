@@ -1,0 +1,88 @@
+﻿faction_id,faction_name,faction_tag,faction_tag_new,faction_group,faction_start,faction_end
+5,Capellan Confederation,cc,cc,Inner Sphere,2367,3152
+18,ComStar,cs,cs,Inner Sphere,2788,3141
+27,Draconis Combine,dc,dc,Inner Sphere,2319,3152
+84,Federated Commonwealth,fc,fc,Inner Sphere,3055,3067
+29,Federated Suns,fs,fs,Inner Sphere,2317,3152
+28,Free Rasalhague Republic,frr,frr,Inner Sphere,3034,3103
+30,Free Worlds League,fwl,fwl_1,Inner Sphere,2271,3079
+30,Free Worlds League,fwl,fwl_2,Inner Sphere,3139,3152
+59,Free Worlds League (Duchy of Andurien),fwl_a,fwl_a,Inner Sphere,3079,3152
+75,Free Worlds League (Duchy of Tamarind -Abbey),fwl_ta,fwl_ta,Inner Sphere,3071,3139
+74,Free Worlds League (Marik-Stewart Commonwealth),fwl_msc,fwl_msc,Inner Sphere,3082,3138
+89,Free Worlds League (Non-Aligned Worlds),fwl_naw,fwl_naw,Inner Sphere,3079,3151
+67,Free Worlds League (Oriente Protectorate),fwl_op,fwl_op,Inner Sphere,3086,3139
+72,Free Worlds League (Regulean Fiefs),fwl_rf,fwl_rf,Inner Sphere,3086,3149
+76,Free Worlds League (Rim Commonality),fwl_rc,fwl_rc,Inner Sphere,3075,3139
+55,Inner Sphere General,is,is,Inner Sphere,2005,3152
+32,Lyran Alliance,la,la,Inner Sphere,3057,3084
+60,Lyran Commonwealth,lc,lc_1,Inner Sphere,2341,3057
+60,Lyran Commonwealth,lc,lc_2,Inner Sphere,3084,3152
+41,Republic of the Sphere,ros,ros,Inner Sphere,3081,3151
+83,St. Ives Compact,sic,sic,Inner Sphere,3029,3063
+104,Tamar Pact,tp,tp,Inner Sphere,3151,3152
+87,Terran Hegemony,th,th,Inner Sphere,2315,2767
+105,Vesper Marches,vm,vm,Inner Sphere,3151,3152
+48,Word of Blake,wob,wob,Inner Sphere,3052,3081
+102,Alyina Mercantile League,aml,aml,IS Clan,3151,3152
+8,Clan Diamond Shark,c_ds,c_ds,IS Clan,2895,3100
+11,Clan Ghost Bear,c_gb,c_gb,IS Clan,2807,3080
+13,Clan Hell's Horses,c_hh,c_hh,IS Clan,2807,3152
+15,Clan Jade Falcon,c_jf,c_jf,IS Clan,2807,3152
+17,Clan Nova Cat,c_ns,c_ns,IS Clan,2807,3143
+100,Clan Protectorate,fwl_cp,fwl_cp,IS Clan,3138,3152
+82,Clan Sea Fox,c_sf,c_sf_1,IS Clan,2807,2895
+82,Clan Sea Fox,c_sf,c_sf_2,IS Clan,3100,3152
+20,Clan Smoke Jaguar,c_sj,c_sj,IS Clan,2807,3060
+21,Clan Snow Raven,c_sr,c_sr,IS Clan,2807,3083
+24,Clan Wolf,c_w,c_w,IS Clan,2807,3151
+23,Clan Wolf (in Exile),c_wie,c_wie,IS Clan,3057,3151
+56,IS Clan General,is_clan,is_clan,IS Clan,2005,3152
+40,Rasalhague Dominion,rd,rd,IS Clan,3081,3152
+39,Raven Alliance,ra,ra,IS Clan,3083,3152
+97,Star League (Clan Jade Falcon),sl_cjf,sl_cjf,IS Clan,3151,3152
+98,Star League (Clan Smoke Jaguar),sl_csj,sl_csj,IS Clan,3151,3152
+96,Star League (Clan Wolf),sl_cw,sl_cw,IS Clan,3151,3152
+101,Wolf Empire,we,we,IS Clan,3151,3152
+2,Clan Blood Spirit,c_bs,c_bs,HW Clan,2807,3084
+1,Clan Burrock,c_b,c_b_1,HW Clan,2807,3059
+1,Clan Burrock,c_b,c_b_2,HW Clan,3072,3074
+6,Clan Cloud Cobra,c_cc,c_cc,HW Clan,2807,3152
+7,Clan Coyote,c_c,c_c,HW Clan,2807,3152
+10,Clan Fire Mandrill,c_fm,c_fm,HW Clan,2807,3073
+12,Clan Goliath Scorpion,c_gs,c_gs,HW Clan,2807,3078
+14,Clan Ice Hellion,c_ih,c_ih,HW Clan,2807,3074
+16,Clan Mongoose,c_m,c_m,HW Clan,2807,2868
+19,Clan Star Adder,c_sa,c_sa,HW Clan,2807,3152
+22,Clan Steel Viper,c_sv,c_sv,HW Clan,2807,3075
+80,Clan Stone Lion,c_sl,c_sl,HW Clan,3075,3152
+25,Clan Widowmaker,c_wm,c_wm,HW Clan,2807,2834
+26,Clan Wolverine,c_wv,c_wv,HW Clan,2807,2823
+85,HW Clan General,hw_clan,hw_clan,HW Clan,2005,3152
+86,Society,soc,soc,HW Clan,2822,3085
+94,Star League in Exile,sl_ie,sl_ie,HW Clan,2781,2822
+78,Calderon Protectorate,cp,cp,Periphery,3066,3152
+9,Circinus Federation,cf,cf,Periphery,2786,3081
+92,Escorpion Imperio,ei,ei,Periphery,3080,3140
+77,Filtvelt Coalition,fvc,fvc,Periphery,3072,3152
+95,Fronc Reaches,fr,fr,Periphery,3066,3152
+33,Magistracy of Canopus,moc,moc,Periphery,2530,3152
+35,Marian Hegemony,mh,mh,Periphery,2920,3152
+36,Outworlds Alliance,oa,oa,Periphery,2413,3083
+57,Periphery General,pg,pg,Periphery,2005,3152
+38,Pirates,pir,pir,Periphery,2005,3152
+42,Rim Worlds Republic - Home Guard,rwr_hg,rwr_hg,Periphery,2250,2779
+88,Rim Worlds Republic - Terran Corps,rwr_tc,rwr_tc,Periphery,2765,2779
+91,Scorpion Empire,se,se,Periphery,3140,3152
+47,Taurian Concordat,tc,tc,Periphery,2335,3152
+31,Kell Hounds,kh,kh,Mercenary,3010,3152
+34,Mercenary,merc,merc,Mercenary,2005,3152
+49,Wolf's Dragoons,wd,wd,Mercenary,3004,3152
+3,Extinct,ext,ext,Other,2005,3152
+44,Solaris 7,sol_7,sol_7,Other,2005,3152
+46,Star League (Second),sl_2,sl_2,Other,3058,3067
+90,Star League General,sl_gen,sl_gen,Other,2571,2780
+45,Star League Regular,sl_reg,sl_reg,Other,2571,2780
+43,Star League Royal,sl_roy,sl_roy,Other,2571,2780
+4,Unique,unq,unq,Other,2005,3152
+108,No Significant Distribution,nsd,nsd,Other,2005,3152
